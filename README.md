@@ -1,2 +1,2 @@
-# Hasta-mi-ltimo-suspiro
+# Hasta-mi-último-suspiro
 Desarrollo de un juego personal
